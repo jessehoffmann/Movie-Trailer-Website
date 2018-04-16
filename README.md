@@ -16,6 +16,11 @@ To run the program execute the following command line or shell:
 python entertainment_center.py
 ```
 
+## Credits
+I learned this code with the help of my teacher at Udacity and some of what \
+is written in here is taken from his teachings. I do not take sole credit for \
+this program.
+
 ## License
 This work is public domain.
 
